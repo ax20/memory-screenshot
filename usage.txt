@@ -1,0 +1,5 @@
+Memory Beta
+Captures screenshot and saves it to desktop.
+--
+Memory
+Captures screenshot with user friendly interface
